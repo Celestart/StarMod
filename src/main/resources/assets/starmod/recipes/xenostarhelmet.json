@@ -6,10 +6,10 @@
   ],
   "key": {
     "X": {
-      "item": "starmod:xenostar_ingot", // Tu dois vérifier cet item
+      "item": "starmod:xenostaringot"
     }
   },
   "result": {
-    "item": "starmod:xenostar_ingot",
+    "item": "starmod:xenostarhelmet"
   }
 }

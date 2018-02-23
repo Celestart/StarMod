@@ -20,7 +20,7 @@ public class RegisteringHandler {
 	
 	@SubscribeEvent
     public void registerItems(RegistryEvent.Register<Item> event) {
-        event.getRegistry().registerAll(StarModItems.XENOSTAR_INGOT, StarModItems.EuphoriteIngot, StarModItems.AzuriteFragment, StarModItems.LuminatFragment,
+        event.getRegistry().registerAll(StarModItems.XenoStarIngot, StarModItems.EuphoriteIngot, StarModItems.AzuriteFragment, StarModItems.LuminatFragment,
         		StarModItems.TitaneIngot);
         //BlockItem//
         event.getRegistry().registerAll(StarModItems.XenoStarBlockItem, StarModItems.EuphoriteBlockItem, StarModItems.AzuriteBlockItem, StarModItems.LuminatBlockItem,
@@ -29,7 +29,7 @@ public class RegisteringHandler {
         event.getRegistry().registerAll(StarModItems.XenoStarOreItem, StarModItems.EuphoriteOreItem, StarModItems.AzuriteOreItem, StarModItems.LuminatOreItem,
         		StarModItems.TitaneOreItem);
         //XenoStarArmor//
-        event.getRegistry().registerAll(StarModItems.XENOSTAR_HELMET, StarModItems.XenoStarChestPlate, StarModItems.XenoStarLeggings, StarModItems.XenoStarBoots);
+        event.getRegistry().registerAll(StarModItems.XenoStarHelmet, StarModItems.XenoStarChestPlate, StarModItems.XenoStarLeggings, StarModItems.XenoStarBoots);
         //EuphoriteArmor//
         event.getRegistry().registerAll(StarModItems.EuphoriteHelmet, StarModItems.EuphoriteChestPlate, StarModItems.EuphoriteLeggings, StarModItems.EuphoriteBoots);
         //AzuriteArmor//

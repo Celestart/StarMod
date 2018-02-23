@@ -39,13 +39,13 @@ public class StarModItems {
 	public static ToolMaterial EuphoriteHammerMaterial = EnumHelper.addToolMaterial("EuphoriteHammerMaterial", 3, 10000,2.0F, 8, 50);
 	public static ToolMaterial AzuriteHammerMaterial = EnumHelper.addToolMaterial("AzuriteHammerMaterial", 4, 10000,2.0F, 8, 50);
 	//Item//
-	public static final Item XENOSTAR_INGOT= new ItemsMod("xenostar_ingot").setRegistryName("xenostar_ingot").setUnlocalizedName("xenostar_ingot");
+	public static final Item XenoStarIngot = new ItemsMod("XenoStarIngot").setRegistryName("XenoStarIngot").setUnlocalizedName("XenoStarIngot");
 	public static final Item EuphoriteIngot = new ItemsMod("EuphoriteIngot").setRegistryName("EuphoriteIngot").setUnlocalizedName("EuphoriteIngot");
 	public static final Item AzuriteFragment = new ItemsMod("AzuriteFragment").setRegistryName("AzuriteFragment").setUnlocalizedName("AzuriteFragment");
 	public static final Item LuminatFragment = new ItemsMod("LuminatFragment").setRegistryName("LuminatFragment").setUnlocalizedName("LuminatFragment");
 	public static final Item TitaneIngot = new ItemsMod("TitaneIngot").setRegistryName("TitaneIngot").setUnlocalizedName("TitaneIngot");
 	//XenoStarArmor//
-	public static final Item XENOSTAR_HELMET = new XenoStarArmor(EntityEquipmentSlot.HEAD).setRegistryName("xenostar_helmet").setUnlocalizedName("xenostar_helmet").setCreativeTab(StarMod.TabStarMod);
+	public static final Item XenoStarHelmet = new XenoStarArmor(EntityEquipmentSlot.HEAD).setRegistryName("XenoStarHelmet").setUnlocalizedName("XenoStarHelmet").setCreativeTab(StarMod.TabStarMod);
 	public static final Item XenoStarChestPlate = new XenoStarArmor(EntityEquipmentSlot.CHEST).setRegistryName("XenoStarChestPlate").setUnlocalizedName("XenoStarChestPlate").setCreativeTab(StarMod.TabStarMod);
 	public static final Item XenoStarLeggings = new XenoStarArmor(EntityEquipmentSlot.LEGS).setRegistryName("XenoStarLeggings").setUnlocalizedName("XenoStarLeggings").setCreativeTab(StarMod.TabStarMod);
 	public static final Item XenoStarBoots = new XenoStarArmor(EntityEquipmentSlot.FEET).setRegistryName("XenoStarBoots").setUnlocalizedName("XenoStarBoots").setCreativeTab(StarMod.TabStarMod);
@@ -122,7 +122,7 @@ public class StarModItems {
 	public static void registerItemModels(ModelRegistryEvent event) {
 		
 		//Item//
-		registerModel(XENOSTAR_INGOT, 0);
+		registerModel(XenoStarIngot, 0);
 		registerModel(EuphoriteIngot, 0);
 		registerModel(AzuriteFragment, 0);
 		registerModel(LuminatFragment, 0);
@@ -140,7 +140,7 @@ public class StarModItems {
 		registerModel(LuminatOreItem, 0);
 		registerModel(TitaneOreItem, 0);
 		//XenoStarArmor//
-		registerModel(XENOSTAR_HELMET, 0);
+		registerModel(XenoStarHelmet, 0);
 		registerModel(XenoStarChestPlate, 0);
 		registerModel(XenoStarLeggings, 0);
 		registerModel(XenoStarBoots, 0);

@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "starmod:titaneblock"
+    }
+  },
+  "result": {
+    "item": "starmod:titaneingot",
+    "count": 9
+  }
+}

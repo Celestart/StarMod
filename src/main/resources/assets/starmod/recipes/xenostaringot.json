@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "starmod:xenostarblock"
+    }
+  },
+  "result": {
+    "item": "starmod:xenostaringot",
+    "count": 9
+  }
+}
