@@ -1,0 +1,84 @@
+ //Lingot / Fragement//
+item.XenoStarIngot.name= Lingot de XenoStar
+item.EuphoriteIngot.name= Lingot d'Euphorite
+item.AzuriteFragment.name= Fragment d'Azurite
+item.LuminatFragment.name= Fragment de Luminat
+item.TitaneIngot.name= Lingot de Titane
+ //XenoStarArmor//
+item.XenoStarHelmet.name= Casque en XenoStar
+item.XenoStarChestPlate.name= Plastron en XenoStar
+item.XenoStarLeggings.name= Jambiere en XenoStar
+item.XenoStarBoots.name= Bottes en XenoStar
+ //EuphoriteArmor//
+item.EuphoriteHelmet.name= Casque en Euphorite
+item.EuphoriteChestPlate.name= Plastron en Euphorite
+item.EuphoriteLeggings.name= Jambiere en Euphorite
+item.EuphoriteBoots.name= Bottes en Euphorite
+ //AzuriteArmor//
+item.AzuriteHelmet.name= Casque en Azurite
+item.AzuriteChestPlate.name= Plastron en Azurite
+item.AzuriteLeggings.name= Jambiere en Azurite
+item.AzuriteBoots.name= Bottes en Azurite
+ //TitaneArmor//
+item.TitaneHelmet.name= Casque en Titane
+item.TitaneChestPlate.name= Plastron en Titane
+item.TitaneLeggings.name= Jambiere en Titane
+item.TitaneBoots.name= Bottes en Titane
+ //LuminatArmor//
+item.LuminatHelmet.name= Casque en Luminat
+item.LuminatChestPlate.name= Plastron en Luminat
+item.LuminatLeggings.name= Jambiere en Luminat
+item.LuminatBoots.name= Bottes en Luminat
+ //Ore//
+tile.XenoStarOre.name= Minerai de XenoStar
+tile.EuphoriteOre.name= Minerai d'Euphorite
+tile.AzuriteOre.name= Minerai d'Azurite
+tile.LuminatOre.name= Minerai de Luminat
+tile.TitaneOre.name= Minerai de Titane
+ //Block//
+tile.XenoStarBlock.name= Bloc de XenoStar
+tile.EuphoriteBlock.name= Bloc d'Euphorite
+tile.AzuriteBlock.name= Bloc d'Azurite
+tile.LuminatBlock.name= Bloc de Luminat
+tile.TitaneBlock.name= Bloc de Titane
+tile.CaveBlock.name= CaveBloc
+tile.ForgeFrame.name= ForgeFrame
+tile.ForgeCassing.name= ForgeCassing
+tile.ForgeController.name= ForgeController
+ 
+ //Norriture//
+item.StarApple.name= StarApple
+
+ //Hammer//
+item.XenoStarHammer.name= Hammer en XenoStar
+item.EuphoriteHammer.name= Hammer en Euphorite
+item.AzuriteHammer.name= Hammer en Azurite
+
+ //XenoStarTool//
+item.XenoStarSword.name= Epee en XenoStar
+item.XenoStarPickaxe.name= Pioche en XenoStar
+item.XenoStarShovel.name= Pelle en XenoStar
+item.XenoStarAxe.name= Hache en XenoStar
+ //EuphoriteTool//
+item.EuphoriteSword.name= Epee en Euphorite
+item.EuphoritePickaxe.name= Pioche en Euphorite
+item.EuphoriteShovel.name= Pelle en Euphorite
+item.EuphoriteAxe.name= Hache en Euphorite
+ //AzuriteTool//
+item.AzuriteSword.name= Epee en Azurite
+item.AzuritePickaxe.name= Pioche en Azurite
+item.AzuriteShovel.name= Pelle en Azurite
+item.AzuriteAxe.name= Hache en Azurite
+ //TitaneTool//
+item.TitaneSword.name= Epee en Titane
+item.TitanePickaxe.name= Pioche en Titane
+item.TitaneShovel.name= Pelle en Titane
+item.TitaneAxe.name= Hache en Titane
+  //LuminatTool//
+item.LuminatSword.name= Epee en Luminat
+item.LuminatPickaxe.name= Pioche en Luminat
+item.LuminatShovel.name= Pelle en Luminat
+item.LuminatAxe.name= Hache en Luminat
+
+ //CreativeTabs//
+itemGroup.StarMod= StarMod Tabs

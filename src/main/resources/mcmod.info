@@ -1,0 +1,16 @@
+[
+{
+  "modid": "starmod",
+  "name": "StarMod",
+  "description": "Mod principal du Serveur Celestart",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Circus"],
+  "credits": "Credit Serveur Celestart",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

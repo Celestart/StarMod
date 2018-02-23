@@ -1,0 +1,81 @@
+ //Ingot / Fragment//
+item.XenoStarIngot.name= XenoStar Ingot
+item.EuphoriteIngot.name= Euphorite Ingot
+item.AzuriteFragment.name= Azurite Fragment
+item.LuminatFragment.name= Luminat Fragment
+item.TitaneIngot.name= Titane Ingot
+ //XenoStarArmor//
+item.XenoStarHelmet.name= XenoStar Helmet
+item.XenoStarChestPlate.name= XenoStar ChestpPlate
+item.XenoStarLeggings.name= XenoStar Leggings
+item.XenoStarBoots.name= XenoStar Boots
+ //EuphoriteArmor//
+item.EuphoriteHelmet.name= Euphorite Helmet
+item.EuphoriteChestPlate.name= Euphorite ChestPlate
+item.EuphoriteLeggings.name= Euphorite Leggings
+item.EuphoriteBoots.name= Euphorite Boots
+ //AzuriteArmor//
+item.AzuriteHelmet.name= Azurite Helmet
+item.AzuriteChestPlate.name= Azurite ChestPlate
+item.AzuriteLeggings.name= Azurite Leggings
+item.AzuriteBoots.name= Azurite Boots
+ //TitaneArmor//
+item.TitaneHelmet.name= Titane Helmet
+item.TitaneChestPlate.name= Titane ChestPlate
+item.TitaneLeggings.name= Titane Leggings
+item.TitaneBoots.name= Titane Boots
+ //LuminatArmor//
+item.LuminatHelmet.name= Luminat Helmet
+item.LuminatChestPlate.name= Luminat ChestPlate
+item.LuminatLeggings.name= Luminat Leggings
+item.LuminatBoots.name= Luminat Boots
+ //Ore//
+tile.XenoStarOre.name= XenoStarOre
+tile.EuphoriteOre.name= EuphoriteOre
+tile.AzuriteOre.name= Azurite Ore
+tile.LuminatOre.name= Luminat Ore
+tile.TitaneOre.name= Titane Ore
+ //Block//
+tile.XenoStarBlock.name= XenoStar Block
+tile.EuphoriteBlock.name= Euphorite Block
+tile.AzuriteBlock.name= Azurite Block
+tile.LuminatBlock.name= Luminat Block
+tile.TitaneBlock.name= Titane Ore
+tile.CaveBlock.name= CaveBlock
+
+ //Norriture//
+item.StarApple.name= StarApple
+
+ //Hammer//
+item.XenoStarHammer.name= XenoStar Hammer
+item.EuphoriteHammer.name= Euphorite hammer
+item.AzuriteHammer.name= Azurite Hammer
+
+ //Outil//
+item.XenoStarSword.name= XenoStar Sword
+item.XenoStarPickaxe.name= XenoStar Pickaxe
+item.XenoStarShovel.name= XenoStar Shovel
+item.XenoStarAxe.name= XenoStar Axe
+ //EuphoriteTool//
+item.EuphoriteSword.name= Euphorite Sword
+item.EuphoritePickaxe.name= Euphorite Pickaxe
+item.EuphoriteShovel.name= Euphorite Shovel
+item.EuphoriteAxe.name= Euphorite Axe
+ //AzuriteTool//
+item.AzuriteSword.name= Azurite Sword
+item.AzuritePickaxe.name= Azurite Pickaxe
+item.AzuriteShovel.name= Azurite Shovel
+item.AzuriteAxe.name= Azurite Axe
+ //TitaneTool//
+item.TitaneSword.name= Titane Sword
+item.TitanePickaxe.name= Titane Pickaxe
+item.TitaneShovel.name= Titane Shovel
+item.TitaneAxe.name= Titane Axe
+ //LuminatTool//
+item.LuminatSword.name= Luminat Sword
+item.LuminatPickaxe.name= Luminat Pickaxe
+item.LuminatShovel.name= Luminat Shovel
+item.LuminatAxe.name= Luminat Axe
+
+ //CreativeTabs//
+itemGroup.TabStarMod= Tabs StarMod
